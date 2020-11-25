@@ -1,4 +1,5 @@
-# Personal Resume Repository: nuralam-siddik.github.io/Apple_Mahmud/
+# Personal Resume Repository.
+nuralam-siddik.github.io/Apple_Mahmud/
 
 Build your own site from scratch or generate one for your project.
 Clone or Download this project. Edit with yours or make a new page.
